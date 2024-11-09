@@ -57,8 +57,9 @@ footer{
 
 @media(max-width:550px){
 	button{
-		width:6rem;height:6rem;
-		line-height:3rem
+		width:5rem;height:5rem;
+		line-height:4rem;
+		font-size:3rem
 		}
-	body{background-color:red}
+	h1{ font-size: 3rem  }
 }
