@@ -57,7 +57,7 @@ footer{
 	opacity: 0.2;
 }
 
-@media(max-width:850px){
+@media(max-width:550px){
 	button{
 		width:6rem;height:6rem;
 		line-height:3rem
